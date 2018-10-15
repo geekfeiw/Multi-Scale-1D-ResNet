@@ -2,7 +2,7 @@
 
 ![NetWork](figs/network.png)
 
-This repository shows a super light-weighted classification network for time serial data with 1D convolution operations, comparing to [CSI-Net](https://github.com/geekfeiw/CSI-Net). The multi scale setting is inspired by Inception, and we find it useful.
+This repository shows a super light-weighted classification network for time serial data with 1D convolution operations, comparing to our [CSI-Net](https://github.com/geekfeiw/CSI-Net). The multi scale setting is inspired by Inception, and we find it useful.
 
 ## Tested Environment
 1. python 3.6
