@@ -10,6 +10,9 @@ This repository shows a super light-weighted classification network for time ser
 2. cuda 8.0/9.0
 3. Windows7/Ubuntu 16.04
 
+## Usage
+clone and run!
+
 ## Data
 Our data are 6 categories of motor faults, shown as follows.
 
