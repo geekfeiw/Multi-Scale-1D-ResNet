@@ -9,14 +9,3 @@ This is a variation of our [CSI-Net](https://github.com/geekfeiw/CSI-Net), but i
 1. pytorch 0.4.1
 2. cuda 8.0/9.0
 3. Windows7/Ubuntu 16.04
-
-## Usage
-clone and run!
-
-## Data
-Our data are 6 categories of motor faults, shown as follows.
-
-![Data](figs/data.png)
-
-## Result
-![Result](figs/result.png)
